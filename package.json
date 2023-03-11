@@ -3,6 +3,25 @@
   "displayName": "Dark Pro",
   "description": "Atom Dark Pro theme",
   "version": "0.0.1",
+  "publisher": "Abdelmuttalib",
+  "keywords": [
+    "theme",
+    "dark",
+    "pro",
+    "atom",
+    "dark pro",
+    "dark pro theme",
+    "dark pro theme for vscode",
+    "dark pro theme for vscode editor",
+    "blue dark pro",
+    "blue dark pro theme",
+    "blue atom dark",
+    "blue atom dark theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdelmuttalib/dark-pro-theme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
